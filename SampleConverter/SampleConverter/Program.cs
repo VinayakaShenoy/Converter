@@ -9,6 +9,7 @@ namespace SampleConverter
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Welcome");
         }
     }
 }
