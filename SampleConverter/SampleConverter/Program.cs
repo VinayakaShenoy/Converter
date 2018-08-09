@@ -9,8 +9,6 @@ namespace SampleConverter
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to Git");
-            Console.WriteLine("Just to be seen local");
         }
     }
 }
